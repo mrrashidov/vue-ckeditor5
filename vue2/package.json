@@ -20,7 +20,7 @@
     "@ckeditor/ckeditor5-vue2": "^1.0.5",
     "@wiris/mathtype-ckeditor5": "^7.26.1",
     "core-js": "^3.6.5",
-    "postcss-loader": "3",
+    "postcss-loader": "3.0.0",
     "raw-loader": "0.5.1",
     "vue": "^2.6.11"
   },
